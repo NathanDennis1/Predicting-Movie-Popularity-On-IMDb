@@ -1,5 +1,7 @@
-Stat-302-Project-1
+# Project for STAT 302 at UW
 
-STAT302 Project 1 contains the pdf for the project, with all results and analysis.
+In this group project we answered several questions pertaining to different variables in the dataset using techniques such as hypothesis testing and multiple linear regression.
 
-STAT302_Project.Rmd contains the r markdown file associated with this project.
+Predicting Movie Popularity on IMDb contains the relevent written report of the project.
+
+Predicting-Movie-Popularity-on-IMDb.rmd has the associated R code.
